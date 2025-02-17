@@ -1,5 +1,6 @@
 # Projet-Travel
 Tableau de bord interactif sur les tendances de voyage 
+
 Grâce à Power BI, j’ai pu analyser et visualiser des données clés sur les destinations populaires, les préférences des voyageurs et bien plus encore.
 📊 Ce que vous trouverez dans ce tableau de bord :
 ✅ KPI principaux : Revenus, Nombre de voyageurs, ...
@@ -12,3 +13,9 @@ Grâce à Power BI, j’ai pu analyser et visualiser des données clés sur les 
 ✅ Analyse des meilleurs clients 🏆
 ✅ Réservations détaillées par type de forfait et niveau d’adhésion 👥
 ✅ Tableau détaillé des réservations pour une analyse approfondie 🗂️
+
+
+## 🛠️ Technologies utilisées  
+- Power BI  
+- SQL pour l'extraction des données  
+- Excel pour la préparation des fichiers
